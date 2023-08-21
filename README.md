@@ -1,7 +1,7 @@
 # Befunge Interpreter
 This is a [Befunge-93](https://en.wikipedia.org/wiki/Befunge) interpreter that interprets a series of instructions on a 2D field using a special pointer. By default, the pointer starts at the top-left corner of the field and moves right through the instructions, executing them.
 
-This mini-interpreter is not finished and does not support output/input instructions, but it can execute almost all instructions written in Befuge-98. There is a lot [examples](https://esolangs.org/wiki/Befunge#Befunge-98).
+This mini-interpreter is not finished and does not support output/input instructions, but it can execute almost all instructions written in Befuge. There is a lot [examples](https://esolangs.org/wiki/Befunge#Befunge-98).
 
 ## Supported Commands
 - `0-9` Push this number onto the stack.
